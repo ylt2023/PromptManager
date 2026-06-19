@@ -103,7 +103,7 @@
 ### 安装
 
 ```bash
-git clone https://github.com/你的用户名/prompt-manager.git
+git clone https://github.com/ylt2023/prompt-manager.git
 cd prompt-manager
 pnpm install
 ```
